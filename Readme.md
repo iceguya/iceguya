@@ -12,7 +12,7 @@ I believe good software isn’t loud — it’s consistent, thoughtful, and a li
 
 - 💻 Focus: **Fullstack Web Development (Laravel, React, PostgreSQL)**  
 - ☁️ Interests: **AI**, **IoT**, and **minimal design systems**  
-- 🪷 OS: Ubuntu & Windows  
+- 🪷 OS: Arch Linux & Windows  
 - 🔭 Currently learning deeper system architecture and backend scalability  
 
 ---
